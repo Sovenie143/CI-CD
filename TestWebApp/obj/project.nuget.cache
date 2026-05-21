@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M/1h0wr6P/o=",
+  "dgSpecHash": "5q0zhWsRCEs=",
   "success": true,
-  "projectFilePath": "D:\\TestWebApp\\TestWebApp.csproj",
+  "projectFilePath": "D:\\CI-CD\\TestWebApp\\TestWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

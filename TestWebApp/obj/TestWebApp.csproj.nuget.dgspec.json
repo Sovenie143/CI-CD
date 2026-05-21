@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TestWebApp\\TestWebApp.csproj": {}
+    "D:\\CI-CD\\TestWebApp\\TestWebApp.csproj": {}
   },
   "projects": {
-    "D:\\TestWebApp\\TestWebApp.csproj": {
+    "D:\\CI-CD\\TestWebApp\\TestWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestWebApp\\TestWebApp.csproj",
+        "projectUniqueName": "D:\\CI-CD\\TestWebApp\\TestWebApp.csproj",
         "projectName": "TestWebApp",
-        "projectPath": "D:\\TestWebApp\\TestWebApp.csproj",
+        "projectPath": "D:\\CI-CD\\TestWebApp\\TestWebApp.csproj",
         "packagesPath": "C:\\Users\\Софья\\.nuget\\packages\\",
-        "outputPath": "D:\\TestWebApp\\obj\\",
+        "outputPath": "D:\\CI-CD\\TestWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
